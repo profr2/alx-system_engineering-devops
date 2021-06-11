@@ -1,0 +1,1 @@
+today i start to read about more basic permissions for shell
